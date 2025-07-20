@@ -1,0 +1,2 @@
+# MarketMinds-Predicting-Stock-Trends-With-Machine-Learning
+MarketMinds is a stock market prediction project that uses Machine Learning algorithms (LSTM &amp; Linear Regression) to forecast future stock prices for any publicly traded company. The system fetches real-time stock data from the Yahoo Finance API and presents it in a user-friendly interface with visualizations of past trends and future predictions.
